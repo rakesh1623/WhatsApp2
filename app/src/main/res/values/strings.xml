@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="register_title"><u>LOGIN PAGE</u></string>
+    <string name="aregister_title"><u>REGISTER PAGE</u></string>
+    <string name="register_email">ENTER YOUR EMAIL</string>
+    <string name="register_pass">ENTER YOUR PASSWORD</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_username"><u>Username</u></string>
+    <string name="profile_about"><u>About</u></string>
+</resources>
